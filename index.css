@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+}
+h4{
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+div{text-align: center;}
+
+#div{
+    width: 400px;
+    height: 300px;
+    padding: 20px 40px;
+    background: #8b4513;
+    border: 10px solid #8b4513;
+    border-radius: 25px;    
+}
+
+hr{
+    border-color: black;
+    background-color: black;
+    margin-bottom: 7px;
+}
+
+#nome{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;   
+}
+
+#email{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 0px;
+    margin-left: 0px; 
+}
+
+#assunto{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 45px;
+    margin-left: 10px;
+}
+
+
+
+#mensagem{  
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 1px;
+    margin-left: 13px;
+}
+
+label{
+    display: inline-block;
+    color: white;
+    width: 80px; 
+    text-align: left;
+}
+
+#enviar{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 1px;
+    margin-left: 13px;
+}
